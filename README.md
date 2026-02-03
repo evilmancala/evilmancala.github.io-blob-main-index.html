@@ -1,1 +1,0 @@
-# evilmancala.github.io
